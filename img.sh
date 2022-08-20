@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # This is just an example how ueberzug can be used with fzf.
 # Copyright (C) 2019  Nico Bäurer
+# Modified to work in fish shell by osalas88
 
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
